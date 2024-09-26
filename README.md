@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **sumnik3983@gamil.com**
+- 📫 How to reach me **sumit.codee@gamil.com**
 
 - ⚡ Fun fact **i am an introvert person**
 
