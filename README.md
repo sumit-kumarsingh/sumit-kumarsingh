@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #FF5733;"> 
+  <img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50; border: 3 solid #FF5733;"> 
   <h1>Sumit Kumar Singh</h1>
   <h3>Aspiring Data Scientist & Machine Learning Developer from India</h3>
 </div>
@@ -41,7 +41,6 @@ My development environment is built around robust tools for data manipulation, m
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" title="Photoshop"/> </a> 
 </p>
 
 ---
