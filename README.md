@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"> 
+  <img src="https://avatars.githubusercontent.com/u/159413669?s=400&u=13bf3895169f968f91d27554a768462414d0085b&v=4" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"> 
   <h1>Sumit Kumar Singh</h1>
   <h3>Data Scientist & Generative AI Enthusiast from India</h3>
 </div>
