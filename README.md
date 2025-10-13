@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"> 
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"> 
   <h1>Sumit Kumar Singh</h1>
   <h3>Data Scientist & Generative AI Enthusiast from India</h3>
 </div>
@@ -13,7 +13,7 @@
 
 ## 💡 Mission Statement
 
-> A dedicated **Data Scientist** focused on leveraging statistical modeling and machine learning to extract meaningful insights from complex datasets. My current mission is to integrate **Generative AI** and **Business Intelligence** techniques to drive innovation and deliver actionable, data-driven solutions.
+> I am a dedicated **Data Scientist** focused on leveraging statistical modeling and machine learning to extract meaningful insights from complex datasets. My current mission is to integrate **Generative AI** and **Business Intelligence** techniques to drive innovation and deliver actionable, data-driven solutions.
 
 ### 🎯 Focus Areas & Commitment
 - 🔭 I’m currently dedicating my time to developing **end-to-end Data Science projects** and building a robust portfolio on GitHub.
@@ -72,7 +72,7 @@ Consistency is paramount in Data Science. These stats reflect my commitment to d
   <a href="https://github.com/sumit-kumarsingh/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumarsingh&show_icons=true&locale=en&theme=dark&hide_border=true&rank_icon=title" alt="Sumit's GitHub Stats" />
   </a>
-  <a href="https://github.com/sumit-kumarsingh/github-readme-streak-stats.herokuapp.com/?user=sumit-kumarsingh&theme=dark&hide_border=true" alt="Sumit's GitHub Streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sumit-kumarsingh&theme=dark&hide_border=true" alt="Sumit's GitHub Streak" />
 </div>
 <br/>
 <div align="center">
