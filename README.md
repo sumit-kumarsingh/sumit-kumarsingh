@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID" alt="Sumit Kumar Singh's Avatar" width="150" style="border-radius: 50%;"> 
   <h1>Hi 👋, I'm Sumit Kumar Singh</h1>
-  <h3>A passionate <span style="color: #007ACC;">Frontend Developer</span> from India</h3>
+  <h3>A passionate <span style="color: #007ACC;">Data scientist</span> from India</h3>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently focused on **Frontend Development projects** on GitHub.
+- 🔭 I’m currently focused on **Data scientist** on GitHub.
 - 🌱 I'm actively expanding my skillset by learning **Machine Learning** concepts and applications.
 - 🤝 I’m open to collaboration on new and exciting **GitHub projects**.
 - 👨‍💻 Check out my repositories for all my work: [My GitHub Profile](https://github.com/sumit-kumarsingh)
