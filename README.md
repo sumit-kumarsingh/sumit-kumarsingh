@@ -10,10 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=sumit-kumarsingh&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumit-kumarsingh&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
+</p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumit-kumarsingh&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumit-kumarsingh&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 💡 Mission Statement
