@@ -70,10 +70,9 @@ I strongly believe in **self-discipline, curiosity, and practice-driven growth**
 
 ---
 
-## 💻 Project Roadmap (Current Focus)
-- **Project 1:** *Advanced Regression Model* → Predict housing prices using Random Forest & XGBoost
-- **Project 2:** *Sentiment Analysis (NLP)* → Classify sentiment using ML & Deep Learning models
-- **Project 3:** *Generative Model Exploration* → Implement a basic GAN or VAE model to understand architectures
+## 💻 Learning Path
+
+**Current Focus:** Building foundations in programming, data structures & algorithms, and exploring the world of Data Science and Machine Learning through hands-on practice and real-world projects.
 
 ---
 
@@ -90,38 +89,79 @@ I strongly believe in **self-discipline, curiosity, and practice-driven growth**
 
 ---
 
-## 📧 Professional Contact & Networking
+## 📧 Connect With Me
 
 <div align="center">
-  <b>📩 Email:</b> <a href="mailto:sumit.codee@gmail.com">sumit.codee@gmail.com</a>
-</div>
-
+  
+### 💼 Professional
+  
 <p align="center">
   <a href="https://linkedin.com/in/sumit-kumar-singh-ds" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/sumit_kumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
+  <a href="mailto:sumit.codee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/sumit.clg" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/c/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/>
-  </a>
-  <a href="https://kaggle.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle"/>
-  </a>
-  <a href="https://medium.com/@sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium"/>
-  </a>
-  <a href="https://www.hackerrank.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
-  </a>
-  <a href="https://www.leetcode.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/>
+  <a href="https://github.com/sumit-kumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+### 💻 Coding Platforms
+
+<p align="center">
+  <a href="https://kaggle.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.hackerrank.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+### 🌐 Social Media
+
+<p align="center">
+  <a href="https://twitter.com/sumit_kumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/sumit.clg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/c/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.facebook.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://bsky.app/profile/sumit-kumarsingh.bsky.social" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
+  </a>
+  <a href="https://www.pinterest.com/sumitcodee" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+</p>
+
+### 📝 Content & Streaming
+
+<p align="center">
+  <a href="https://medium.com/@sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.tiktok.com/@sumit.clg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://www.twitch.tv/sumit0clg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
+  <a href="https://threads.net/@sumit.clg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
