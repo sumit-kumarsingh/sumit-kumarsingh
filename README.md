@@ -46,9 +46,11 @@
 ### Business Intelligence & Productivity Tools
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint.png" alt="PowerPoint" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -63,12 +65,12 @@
 ## 📊 GitHub Performance Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumarsingh&show_icons=true&locale=en&theme=radical&hide_border=true&rank_icon=github" alt="Sumit's GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit-kumarsingh&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumarsingh&show_icons=true&locale=en&theme=default&hide_border=false" alt="Sumit's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit-kumarsingh&theme=default&hide_border=false" alt="GitHub Streak Stats" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumarsingh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumarsingh&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" width="48%"/>
 </div>
 
 ---
@@ -81,13 +83,28 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sumit-kumar-singh-ds" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/sumit_kumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/sumit.clg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/c/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/>
+  </a>
+  <a href="https://kaggle.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle"/>
+  </a>
+  <a href="https://medium.com/@sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium"/>
+  </a>
+  <a href="https://www.hackerrank.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/>
   </a>
 </p>
 
