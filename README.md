@@ -99,26 +99,32 @@ I strongly believe in **self-discipline, curiosity, and practice-driven growth**
   <a href="https://linkedin.com/in/sumit-kumar-singh-ds" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/sumit_kumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
-  </a>
   <a href="https://instagram.com/sumit.clg" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/sumit_kumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
   </a>
   <a href="https://www.youtube.com/c/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/>
   </a>
-  <a href="https://kaggle.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle"/>
+  <a href="https://threads.net/@sumit.clg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/threads.png" height="30" width="30" alt="Threads"/>
   </a>
-  <a href="https://medium.com/@sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium"/>
+  <a href="https://pinterest.com/sumitcodee" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40" alt="Pinterest"/>
   </a>
-  <a href="https://www.hackerrank.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
+  <a href="https://facebook.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
   </a>
-  <a href="https://www.leetcode.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/>
+  <a href="https://bsky.app/profile/sumit-kumarsingh.bsky.social" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/bluesky.png" height="30" width="30" alt="Bluesky"/>
+  </a>
+  <a href="https://snapchat.com/add/sumit.clg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/snapchat.png" height="30" width="30" alt="Snapchat"/>
+  </a>
+  <a href="https://t.me/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/telegram-app.png" height="30" width="30" alt="Telegram"/>
   </a>
 </p>
 
