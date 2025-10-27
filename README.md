@@ -109,7 +109,7 @@ I strongly believe in **self-discipline, curiosity, and practice-driven growth**
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/>
   </a>
   <a href="https://threads.net/@sumit.clg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/threads.png" height="30" width="30" alt="Threads"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Threads.svg" height="30" width="30" alt="Threads"/>
   </a>
   <a href="https://pinterest.com/sumitcodee" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40" alt="Pinterest"/>
@@ -118,7 +118,7 @@ I strongly believe in **self-discipline, curiosity, and practice-driven growth**
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
   </a>
   <a href="https://bsky.app/profile/sumit-kumarsingh.bsky.social" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/bluesky.png" height="30" width="30" alt="Bluesky"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="30" alt="Bluesky"/>
   </a>
   <a href="https://snapchat.com/add/sumit.clg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/48/snapchat.png" height="30" width="30" alt="Snapchat"/>
