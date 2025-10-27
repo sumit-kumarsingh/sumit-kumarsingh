@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/159413669?s=400&u=13bf3895169f968f91d27554a768462414d0085b&v=4" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;">
   <h1>Sumit Kumar Singh</h1>
-  <h3>Data Scientist & Generative AI Enthusiast from India</h3>
+  <h3>Aspiring Data Scientist | BCA Student @IGNOU | Python & AI Enthusiast</h3>
+  <p>📍 New Delhi, India</p>
 </div>
 
 ---
@@ -16,47 +17,55 @@
 
 ---
 
-## 💡 Mission Statement
+## 💡 About Me
 
-> I am a dedicated **Data Scientist** focused on leveraging statistical modeling and machine learning to extract meaningful insights from complex datasets. My current mission is to integrate **Generative AI** and **Business Intelligence** techniques to drive innovation and deliver actionable, data-driven solutions.
+> *"My journey started with a simple 'Hello World' — now transforming that spark into real-world impact through consistent learning and hands-on practice."*
 
-### 🎯 Focus Areas & Commitment
-- 🔭 Developing **end-to-end Data Science projects** and building a strong portfolio
-- 🌱 Mastering **Deep Learning** and **Generative AI** frameworks
-- 🤝 Open to collaboration on **data challenges, Kaggle competitions, or AI projects**
-- 💬 **Ask me about:** Python, SQL, Data Visualization, or AI for Business
-- ⚡ **Fun fact:** I'm an **introvert** who finds peace working with complex data systems
+I'm a passionate **BCA student at IGNOU** building strong foundations in **Python, C, C++, Java** along with **Data Structures, Algorithms, and MySQL**. Currently exploring **Data Science, Machine Learning, and AI** to evolve towards a career in tech.
+
+I strongly believe in **self-discipline, curiosity, and practice-driven growth** — not just learning theory but applying it to solve real problems.
+
+### 🎯 What I'm Up To
+- 🔭 Building **Data Science projects** and strengthening my coding fundamentals
+- 🌱 Learning **Machine Learning, Power BI & Analytics**
+- 🤝 Open to **collaborate on projects** and learn together
+- 💬 Ask me about: **Python, SQL, Data Science, or my learning journey**
+- ⚡ Always open to **connect, collaborate, and grow together**
 
 ---
 
-## 🛠️ Technical Stack & Tools
+## 🛠️ Technical Skills
 
-### Programming & Data Science
+### Programming Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+</p>
+
+### Data Science & Machine Learning
+<p align="left">
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+</p>
+
+### Database & Tools
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
 </p>
 
-### AI & Machine Learning
+### Business Intelligence
 <p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
-  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Generative AI" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft 365 Copilot" width="40" height="40"/> </a>
-</p>
-
-### Business Intelligence & Microsoft Office
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint.png" alt="PowerPoint" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-word.png" alt="Word" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Copilot" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -119,4 +128,3 @@
 <div align="center">
   <i>⭐ From <a href="https://github.com/sumit-kumarsingh">Sumit Kumar Singh</a> - Let's build something amazing together!</i>
 </div>
-
