@@ -16,8 +16,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumitkumarsingh&theme=github_darkt&layout=compact" alt="Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumitkumarsingh&theme=github_dark&layout=compact" alt="Coding Stats" />
 </div>
+
 
 ---
 
