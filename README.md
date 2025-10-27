@@ -11,8 +11,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumit-kumarsingh&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-kumarsingh&theme=github-compact&hide_border=false&area=true" alt="GitHub Activity Graph" />
 </div>
+
 ---
 
 ## 💡 Mission Statement
@@ -30,26 +31,32 @@
 
 ## 🛠️ Technical Stack & Tools
 
-### Core Data Science & AI Expertise
+### Programming & Data Science
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
 </p>
 
-### Business Intelligence & Productivity Tools
+### AI & Machine Learning
 <p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Generative AI" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft 365 Copilot" width="40" height="40"/> </a>
+</p>
+
+### Business Intelligence & Microsoft Office
+<p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint.png" alt="PowerPoint" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-word.png" alt="Word" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
 </p>
 
 ---
