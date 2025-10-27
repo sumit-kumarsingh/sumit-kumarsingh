@@ -109,7 +109,7 @@ I strongly believe in **self-discipline, curiosity, and practice-driven growth**
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/>
   </a>
   <a href="https://threads.net/@sumit.clg" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Threads.svg" height="30" width="30" alt="Threads"/>
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" height="30" alt="Threads"/>
   </a>
   <a href="https://pinterest.com/sumitcodee" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40" alt="Pinterest"/>
