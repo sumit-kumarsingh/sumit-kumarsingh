@@ -12,11 +12,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-kumarsingh&theme=github_dark" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-kumarsingh&theme=github_light" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumitkumarsingh&theme=github_dark&layout=compact" alt="Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumitkumarsingh&theme=github_light&layout=compact" alt="Coding Stats" />
 </div>
 
 ---
