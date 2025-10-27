@@ -11,13 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=sumit-kumarsingh&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-kumarsingh&theme=github_light" alt="GitHub Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumitkumarsingh&theme=github_light&layout=compact" alt="Coding Stats" />
-</div>
+div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-kumarsingh&theme=github_dark" alt="GitHub Profile Summary"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumit-kumarsingh&theme=github_dark&layout=compact" alt="Coding Stats" /> </div>
 
 
 
