@@ -1,139 +1,32 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/159413669?s=400&u=13bf3895169f968f91d27554a768462414d0085b&v=4" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;">
-  <h1>Sumit Kumar Singh</h1>
-  <h3>Aspiring Data Scientist | BCA Student @IGNOU | Python & AI Enthusiast</h3>
-  <p>📍 New Delhi, India</p>
-</div>
+<div align="center"> <img src="https://avatars.githubusercontent.com/u/159413669?s=400&u=13bf3895169f968f91d27554a768462414d0085b&v=4" alt="Sumit Kumar Singh - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"> <h1>Sumit Kumar Singh</h1> <h3>Aspiring Data Scientist | BCA Student @IGNOU | Python & AI Enthusiast</h3> <p>📍 New Delhi, India</p> </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sumit-kumarsingh&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" /> </p> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-kumarsingh&theme=default" alt="GitHub Profile Summary"/> </div>
+💡 About Me
+"My journey started with a simple 'Hello World' — now transforming that spark into real-world impact through consistent learning and hands-on practice."
 
----
+I'm a passionate BCA student at IGNOU building strong foundations in Python, C, C++, Java along with Data Structures, Algorithms, and MySQL. Currently exploring Data Science, Machine Learning, and AI to evolve towards a career in tech.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumit-kumarsingh&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
-</p>
+I strongly believe in self-discipline, curiosity, and practice-driven growth — not just learning theory but applying it to solve real problems.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit-kumarsingh&theme=github_dark" alt="GitHub Profile Summary"/>
-</div>
+🎯 What I'm Up To
+🔭 Building Data Science projects and strengthening my coding fundamentals
+🌱 Learning Machine Learning, Power BI & Analytics
+🤝 Open to collaborate on projects and learn together
+💬 Ask me about: Python, SQL, Data Science, or my learning journey
+⚡ Always open to connect, collaborate, and grow together
+🛠️ Technical Skills
+Programming Languages
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> </p>
+Data Science & Machine Learning
+<p align="left"> <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a> </p>
+Database & Tools
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> </p>
+Business Intelligence
+<p align="left"> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Copilot" width="40" height="40"/> </a> </p>
+💻 Learning Path
+Current Focus: Building foundations in programming, data structures & algorithms, and exploring the world of Data Science and Machine Learning through hands-on practice and real-world projects.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumitkumarsingh&theme=github_dark&layout=compact" alt="Coding Stats" />
-</div>
-
----
-
-## 💡 About Me
-
-> *"My journey started with a simple 'Hello World' — now transforming that spark into real-world impact through consistent learning and hands-on practice."*
-
-I'm a passionate **BCA student at IGNOU** building strong foundations in **Python, C, C++, Java** along with **Data Structures, Algorithms, and MySQL**. Currently exploring **Data Science, Machine Learning, and AI** to evolve towards a career in tech.
-
-I strongly believe in **self-discipline, curiosity, and practice-driven growth** — not just learning theory but applying it to solve real problems.
-
-### 🎯 What I'm Up To
-- 🔭 Building **Data Science projects** and strengthening my coding fundamentals
-- 🌱 Learning **Machine Learning, Power BI & Analytics**
-- 🤝 Open to **collaborate on projects** and learn together
-- 💬 Ask me about: **Python, SQL, Data Science, or my learning journey**
-- ⚡ Always open to **connect, collaborate, and grow together**
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-</p>
-
-### Data Science & Machine Learning
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-</p>
-
-### Database & Tools
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
-</p>
-
-### Business Intelligence
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Copilot" width="40" height="40"/> </a>
-</p>
-
----
-
-## 💻 Learning Path
-
-**Current Focus:** Building foundations in programming, data structures & algorithms, and exploring the world of Data Science and Machine Learning through hands-on practice and real-world projects.
-
----
-
-## 📊 GitHub Performance Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumarsingh&show_icons=true&locale=en&theme=default&hide_border=false" alt="Sumit's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit-kumarsingh&theme=default&hide_border=false" alt="GitHub Streak Stats" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumarsingh&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" width="48%"/>
-</div>
-
----
-
-## 📧 Professional Contact & Networking
-
-<div align="center">
-  <b>📩 Email:</b> <a href="mailto:sumit.codee@gmail.com">sumit.codee@gmail.com</a>
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sumit-kumar-singh-ds" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/sumit.clg" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/sumit_kumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
-  </a>
-  <a href="https://www.youtube.com/c/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/>
-  </a>
-  <a href="https://threads.net/@sumit.clg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" height="30" alt="Threads"/>
-  </a>
-  <a href="https://pinterest.com/sumitcodee" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40" alt="Pinterest"/>
-  </a>
-  <a href="https://facebook.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
-  </a>
-  <a href="https://bsky.app/profile/sumit-kumarsingh.bsky.social" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="30" alt="Bluesky"/>
-  </a>
-  <a href="https://snapchat.com/add/sumit.clg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/snapchat.png" height="30" width="30" alt="Snapchat"/>
-  </a>
-  <a href="https://t.me/sumitkumarsingh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/telegram-app.png" height="30" width="30" alt="Telegram"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/sumit-kumarsingh">Sumit Kumar Singh</a> - Let's build something amazing together!</i>
-</div>
+📊 GitHub Performance Insights
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumarsingh&show_icons=true&locale=en&theme=default&hide_border=false" alt="Sumit's GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit-kumarsingh&theme=default&hide_border=false" alt="GitHub Streak Stats" width="48%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumarsingh&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" width="48%"/> </div>
+📧 Professional Contact & Networking
+<div align="center"> <b>📩 Email:</b> <a href="mailto:sumit.codee@gmail.com">sumit.codee@gmail.com</a> </div> <p align="center"> <a href="https://linkedin.com/in/sumit-kumar-singh-ds" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/> </a> <a href="https://instagram.com/sumit.clg" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/> </a> <a href="https://twitter.com/sumit_kumarsingh" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/> </a> <a href="https://www.youtube.com/c/sumitkumarsingh" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/> </a> <a href="https://threads.net/@sumit.clg" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" height="30" alt="Threads"/> </a> <a href="https://pinterest.com/sumitcodee" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40" alt="Pinterest"/> </a> <a href="https://facebook.com/sumitkumarsingh" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/> </a> <a href="https://bsky.app/profile/sumit-kumarsingh.bsky.social" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="30" alt="Bluesky"/> </a> <a href="https://snapchat.com/add/sumit.clg" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/48/snapchat.png" height="30" width="30" alt="Snapchat"/> </a> <a href="https://t.me/sumitkumarsingh" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/telegram-app.png" height="30" width="30" alt="Telegram"/> </a> </p>
+<div align="center"> <i>⭐ From <a href="https://github.com/sumit-kumarsingh">Sumit Kumar Singh</a> - Let's build something amazing together!</i> </div>
