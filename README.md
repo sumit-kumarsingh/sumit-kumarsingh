@@ -27,6 +27,5 @@ Current Focus: Building foundations in programming, data structures & algorithms
 
 📊 GitHub Performance Insights
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumarsingh&show_icons=true&locale=en&theme=default&hide_border=false" alt="Sumit's GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit-kumarsingh&theme=default&hide_border=false" alt="GitHub Streak Stats" width="48%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumarsingh&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" width="48%"/> </div>
-📧 Professional Contact & Networking
 <div align="center"> <b>📩 Email:</b> <a href="mailto:sumit.codee@gmail.com">sumitvswork@gmail.com</a> 
 <div align="center"> <i>⭐ From <a href="https://github.com/sumit-kumarsingh">Sumit Kumar Singh</a> - Let's build something amazing together!</i> </div>
